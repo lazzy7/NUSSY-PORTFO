@@ -1,0 +1,59 @@
+.NAME {
+    background-color: #004070;;
+    color: white;
+  margin-left: ;}
+
+
+
+.NAME h1{
+border-bottom: 2px solid ;
+padding-top: 40px;
+}
+
+.ABOUT ul{
+    border-bottom: 2px solid #004070;
+}
+
+
+.EDU h2 {
+    border-bottom: 2px solid #004070 ;
+    margin-top: 40px;
+}
+
+.WORK h2 {
+    border-bottom:  2px solid #004070;
+    margin-top: 40px;
+}
+
+
+.DIGITAL h2 {
+    border-bottom:  2px solid #004070;
+    margin-top: 40px;
+    
+}
+
+.AWARD h2 {
+    border-bottom: 2px solid #004070 ;
+    margin-top: 40px;
+
+}
+
+.edu {
+    position: relative;
+    top: 25px;
+}
+
+.work {
+    position: relative;
+    top: 25px;
+}
+
+.skills {
+    position: relative;
+    top: 25px;
+}
+
+.DIGITAL h3 {
+    font-weight: 400;
+    color: darksalmon;
+}
